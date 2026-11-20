@@ -29,6 +29,15 @@
       "source": "registry",
       "testable": false
     },
+    "com.unity.cinemachine@6.6.0": {
+      "name": "com.unity.cinemachine",
+      "displayName": "Cinemachine",
+      "resolvedPath": "C:\\Unity Projects\\CoopVRProcGenAI\\CoopVRProcGenAI\\Library\\PackageCache\\com.unity.cinemachine@f53aa49b3acc",
+      "fingerprint": "f53aa49b3acc964ce8914671cef989414b1f26c8",
+      "version": "6.6.0",
+      "source": "builtin",
+      "testable": false
+    },
     "com.unity.collab-proxy@2.13.6": {
       "name": "com.unity.collab-proxy",
       "displayName": "Unity Version Control",
@@ -37,6 +46,15 @@
       "editorCompatibility": "6000.0.0a1",
       "version": "2.13.6",
       "source": "registry",
+      "testable": false
+    },
+    "com.unity.ext.nunit@2.1.0": {
+      "name": "com.unity.ext.nunit",
+      "displayName": "Custom NUnit",
+      "resolvedPath": "C:\\Unity Projects\\CoopVRProcGenAI\\CoopVRProcGenAI\\Library\\PackageCache\\com.unity.ext.nunit@0198eae3b53e",
+      "fingerprint": "0198eae3b53e4b243332e89e4af7bd396715ad55",
+      "version": "2.1.0",
+      "source": "builtin",
       "testable": false
     },
     "com.unity.ide.rider@3.0.38": {
@@ -59,6 +77,16 @@
       "source": "registry",
       "testable": false
     },
+    "com.unity.ide.vscode@1.2.5": {
+      "name": "com.unity.ide.vscode",
+      "displayName": "Visual Studio Code Editor",
+      "resolvedPath": "C:\\Unity Projects\\CoopVRProcGenAI\\CoopVRProcGenAI\\Library\\PackageCache\\com.unity.ide.vscode@82e68656b7bd",
+      "fingerprint": "82e68656b7bdc5da8beb1fbaf1bb4ecf13456d51",
+      "editorCompatibility": "2019.2.0a12",
+      "version": "1.2.5",
+      "source": "registry",
+      "testable": false
+    },
     "com.unity.inputsystem@1.20.0": {
       "name": "com.unity.inputsystem",
       "displayName": "Input System",
@@ -66,6 +94,56 @@
       "fingerprint": "7a4e1a2a81941121ffc0721a14009b46299dada1",
       "editorCompatibility": "6000.0.0a1",
       "version": "1.20.0",
+      "source": "registry",
+      "testable": false
+    },
+    "com.unity.multiplayer.tools@2.2.12": {
+      "name": "com.unity.multiplayer.tools",
+      "displayName": "Multiplayer Tools",
+      "resolvedPath": "C:\\Unity Projects\\CoopVRProcGenAI\\CoopVRProcGenAI\\Library\\PackageCache\\com.unity.multiplayer.tools@ab0f93c2f1f1",
+      "fingerprint": "ab0f93c2f1f13a617bf90f8db4d5c5b1c819ae34",
+      "editorCompatibility": "6000.0.0a1",
+      "version": "2.2.12",
+      "source": "registry",
+      "testable": false
+    },
+    "com.unity.netcode.gameobjects@2.14.0": {
+      "name": "com.unity.netcode.gameobjects",
+      "displayName": "Netcode for GameObjects",
+      "resolvedPath": "C:\\Unity Projects\\CoopVRProcGenAI\\CoopVRProcGenAI\\Library\\PackageCache\\com.unity.netcode.gameobjects@297aac4ac093",
+      "fingerprint": "297aac4ac093ad32c8a10c909013c10da6d4ad33",
+      "editorCompatibility": "6000.0.0a1",
+      "version": "2.14.0",
+      "source": "registry",
+      "testable": false
+    },
+    "com.unity.postprocessing@3.5.4": {
+      "name": "com.unity.postprocessing",
+      "displayName": "Post Processing",
+      "resolvedPath": "C:\\Unity Projects\\CoopVRProcGenAI\\CoopVRProcGenAI\\Library\\PackageCache\\com.unity.postprocessing@141166b789e3",
+      "fingerprint": "141166b789e3df4d2a816ea0dc441d73da8db3e6",
+      "editorCompatibility": "2019.4.19f1",
+      "version": "3.5.4",
+      "source": "registry",
+      "testable": false
+    },
+    "com.unity.probuilder@6.1.4": {
+      "name": "com.unity.probuilder",
+      "displayName": "ProBuilder",
+      "resolvedPath": "C:\\Unity Projects\\CoopVRProcGenAI\\CoopVRProcGenAI\\Library\\PackageCache\\com.unity.probuilder@7ffe746297d0",
+      "fingerprint": "7ffe746297d03335276b9d386e2b23303a216e94",
+      "editorCompatibility": "6000.0.0a1",
+      "version": "6.1.4",
+      "source": "registry",
+      "testable": false
+    },
+    "com.unity.recorder@5.1.7": {
+      "name": "com.unity.recorder",
+      "displayName": "Recorder",
+      "resolvedPath": "C:\\Unity Projects\\CoopVRProcGenAI\\CoopVRProcGenAI\\Library\\PackageCache\\com.unity.recorder@0b23bb7a1fb4",
+      "fingerprint": "0b23bb7a1fb4a062b8640ef5b1d174ca9b070467",
+      "editorCompatibility": "6000.0.0a1",
+      "version": "5.1.7",
       "source": "registry",
       "testable": false
     },
@@ -478,15 +556,6 @@
       "source": "builtin",
       "testable": false
     },
-    "com.unity.ext.nunit@2.1.0": {
-      "name": "com.unity.ext.nunit",
-      "displayName": "Custom NUnit",
-      "resolvedPath": "C:\\Unity Projects\\CoopVRProcGenAI\\CoopVRProcGenAI\\Library\\PackageCache\\com.unity.ext.nunit@0198eae3b53e",
-      "fingerprint": "0198eae3b53e4b243332e89e4af7bd396715ad55",
-      "version": "2.1.0",
-      "source": "builtin",
-      "testable": false
-    },
     "com.unity.render-pipelines.core@17.6.0": {
       "name": "com.unity.render-pipelines.core",
       "displayName": "Scriptable Render Pipeline Core",
@@ -514,25 +583,6 @@
       "source": "builtin",
       "testable": false
     },
-    "com.unity.burst@2.0.0": {
-      "name": "com.unity.burst",
-      "displayName": "Burst",
-      "resolvedPath": "C:\\Unity Projects\\CoopVRProcGenAI\\CoopVRProcGenAI\\Library\\PackageCache\\com.unity.burst@626e66ab421b",
-      "fingerprint": "626e66ab421bf31cfa602bb20675290e2a514b01",
-      "version": "2.0.0",
-      "source": "builtin",
-      "testable": false
-    },
-    "com.unity.dt.app-ui@2.1.11": {
-      "name": "com.unity.dt.app-ui",
-      "displayName": "App UI",
-      "resolvedPath": "C:\\Unity Projects\\CoopVRProcGenAI\\CoopVRProcGenAI\\Library\\PackageCache\\com.unity.dt.app-ui@cd5609b130ce",
-      "fingerprint": "cd5609b130ce12f7cde8057a06fd6af6db9e52cf",
-      "editorCompatibility": "2021.3.0a1",
-      "version": "2.1.11",
-      "source": "registry",
-      "testable": false
-    },
     "com.unity.collections@6.6.0": {
       "name": "com.unity.collections",
       "displayName": "Collections",
@@ -542,6 +592,64 @@
       "source": "builtin",
       "testable": false
     },
+    "com.unity.bindings.openimageio@1.0.2": {
+      "name": "com.unity.bindings.openimageio",
+      "displayName": "OpenImageIO Bindings",
+      "resolvedPath": "C:\\Unity Projects\\CoopVRProcGenAI\\CoopVRProcGenAI\\Library\\PackageCache\\com.unity.bindings.openimageio@94e2abc0bc65",
+      "fingerprint": "94e2abc0bc652a4e4783b2a9f0aaedb9cbc1518c",
+      "editorCompatibility": "2023.1.0a1",
+      "version": "1.0.2",
+      "source": "registry",
+      "testable": false
+    },
+    "com.unity.settings-manager@2.1.1": {
+      "name": "com.unity.settings-manager",
+      "displayName": "Settings Manager",
+      "resolvedPath": "C:\\Unity Projects\\CoopVRProcGenAI\\CoopVRProcGenAI\\Library\\PackageCache\\com.unity.settings-manager@0b8638c5ce86",
+      "fingerprint": "0b8638c5ce86009d785da17b17aaf629047f64ce",
+      "editorCompatibility": "2022.3.0a1",
+      "version": "2.1.1",
+      "source": "registry",
+      "testable": false
+    },
+    "com.unity.transport@6.6.0": {
+      "name": "com.unity.transport",
+      "displayName": "Unity Transport",
+      "resolvedPath": "C:\\Unity Projects\\CoopVRProcGenAI\\CoopVRProcGenAI\\Library\\PackageCache\\com.unity.transport@1839533e4eb3",
+      "fingerprint": "1839533e4eb391bf730cdbb7b64ed590a479e2d9",
+      "version": "6.6.0",
+      "source": "builtin",
+      "testable": false
+    },
+    "com.unity.nuget.mono-cecil@1.11.6": {
+      "name": "com.unity.nuget.mono-cecil",
+      "displayName": "Mono Cecil",
+      "resolvedPath": "C:\\Unity Projects\\CoopVRProcGenAI\\CoopVRProcGenAI\\Library\\PackageCache\\com.unity.nuget.mono-cecil@ecb9724e46ff",
+      "fingerprint": "ecb9724e46fff855c46a4f37f0a3377a3cfffc06",
+      "editorCompatibility": "2019.4.0a1",
+      "version": "1.11.6",
+      "source": "registry",
+      "testable": false
+    },
+    "com.unity.burst@2.0.0": {
+      "name": "com.unity.burst",
+      "displayName": "Burst",
+      "resolvedPath": "C:\\Unity Projects\\CoopVRProcGenAI\\CoopVRProcGenAI\\Library\\PackageCache\\com.unity.burst@626e66ab421b",
+      "fingerprint": "626e66ab421bf31cfa602bb20675290e2a514b01",
+      "version": "2.0.0",
+      "source": "builtin",
+      "testable": false
+    },
+    "com.unity.profiling.core@1.0.3": {
+      "name": "com.unity.profiling.core",
+      "displayName": "Unity Profiling Core API",
+      "resolvedPath": "C:\\Unity Projects\\CoopVRProcGenAI\\CoopVRProcGenAI\\Library\\PackageCache\\com.unity.profiling.core@8a49f7027d06",
+      "fingerprint": "8a49f7027d0618e2cb86aa9e4ed5fb4392e8121a",
+      "editorCompatibility": "2020.1.0a1",
+      "version": "1.0.3",
+      "source": "registry",
+      "testable": false
+    },
     "com.unity.nuget.newtonsoft-json@3.2.2": {
       "name": "com.unity.nuget.newtonsoft-json",
       "displayName": "Newtonsoft Json",
@@ -549,6 +657,26 @@
       "fingerprint": "4dfd81071c6475bb9c114f920bfb4e3fc5e28c6a",
       "editorCompatibility": "2018.4.0a1",
       "version": "3.2.2",
+      "source": "registry",
+      "testable": false
+    },
+    "com.unity.splines@2.9.0": {
+      "name": "com.unity.splines",
+      "displayName": "Splines",
+      "resolvedPath": "C:\\Unity Projects\\CoopVRProcGenAI\\CoopVRProcGenAI\\Library\\PackageCache\\com.unity.splines@e6e1d5900acc",
+      "fingerprint": "e6e1d5900acccddb7bdd2b0c7882b5d9bb14da0c",
+      "editorCompatibility": "2022.3.0a1",
+      "version": "2.9.0",
+      "source": "registry",
+      "testable": false
+    },
+    "com.unity.dt.app-ui@2.1.11": {
+      "name": "com.unity.dt.app-ui",
+      "displayName": "App UI",
+      "resolvedPath": "C:\\Unity Projects\\CoopVRProcGenAI\\CoopVRProcGenAI\\Library\\PackageCache\\com.unity.dt.app-ui@cd5609b130ce",
+      "fingerprint": "cd5609b130ce12f7cde8057a06fd6af6db9e52cf",
+      "editorCompatibility": "2021.3.0a1",
+      "version": "2.1.11",
       "source": "registry",
       "testable": false
     },
@@ -569,26 +697,6 @@
       "fingerprint": "cfd2588851ee248c7989396b0917e843c54c1c6d",
       "version": "1.0.0",
       "source": "builtin",
-      "testable": false
-    },
-    "com.unity.profiling.core@1.0.3": {
-      "name": "com.unity.profiling.core",
-      "displayName": "Unity Profiling Core API",
-      "resolvedPath": "C:\\Unity Projects\\CoopVRProcGenAI\\CoopVRProcGenAI\\Library\\PackageCache\\com.unity.profiling.core@8a49f7027d06",
-      "fingerprint": "8a49f7027d0618e2cb86aa9e4ed5fb4392e8121a",
-      "editorCompatibility": "2020.1.0a1",
-      "version": "1.0.3",
-      "source": "registry",
-      "testable": false
-    },
-    "com.unity.nuget.mono-cecil@1.11.6": {
-      "name": "com.unity.nuget.mono-cecil",
-      "displayName": "Mono Cecil",
-      "resolvedPath": "C:\\Unity Projects\\CoopVRProcGenAI\\CoopVRProcGenAI\\Library\\PackageCache\\com.unity.nuget.mono-cecil@ecb9724e46ff",
-      "fingerprint": "ecb9724e46fff855c46a4f37f0a3377a3cfffc06",
-      "editorCompatibility": "2019.4.0a1",
-      "version": "1.11.6",
-      "source": "registry",
       "testable": false
     },
     "com.unity.test-framework.performance@6.6.0": {

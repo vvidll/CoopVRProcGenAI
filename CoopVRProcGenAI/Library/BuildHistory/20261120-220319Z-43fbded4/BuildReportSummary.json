@@ -1,0 +1,33 @@
+{
+    "Version": 2,
+    "BuildContentOptions": [
+        "None"
+    ],
+    "BuildManifestHash": "00000000000000000000000000000000",
+    "BuildName": "CoopVRProcGenAI",
+    "BuildOptions": [
+        "ForceOptimizeScriptCompilation",
+        "Il2CPP",
+        "CompressTextures",
+        "StripDebugSymbols",
+        "ShaderLivelinkSupport",
+        "ShowBuiltPlayer"
+    ],
+    "BuildProfilePath": "Assets/Settings/Build Profiles/Windows.asset",
+    "BuildResult": 1,
+    "BuildResultName": "Succeeded",
+    "BuildSessionGUID": "43fbded4be889054183c089850845d2c",
+    "BuildStartedAt": "2026-11-20T22:03:19.5040014Z",
+    "BuildType": 1,
+    "BuildTypeName": "Player",
+    "ContentSourceBuildSessionGUID": "00000000000000000000000000000000",
+    "OutputPath": "C:/Users/Impossible/Desktop/Coop/CoopVRProcGenAI.exe",
+    "Platform": 19,
+    "PlatformName": "StandaloneWindows64",
+    "Subtarget": 2,
+    "SubtargetName": "Player",
+    "TotalErrors": 0,
+    "TotalSizeBytes": 182875098,
+    "TotalTimeMs": 6864,
+    "TotalWarnings": 637
+}

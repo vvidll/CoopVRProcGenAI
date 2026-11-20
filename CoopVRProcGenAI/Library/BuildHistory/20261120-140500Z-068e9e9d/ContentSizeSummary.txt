@@ -1,0 +1,30 @@
+-------------------------------------------------------------------------------
+Build Report - Content Size Statistics
+Serialized File count                      4
+Resource file count                        3
+Object count                            4534
+Serialized Files                      15.3 mb	  27.7%
+Serialized Files Headers             135.9 kb	   0.2%
+Resource data (Texture,Audio...)      39.9 mb	  72.3%
+Total build size                      55.1 mb
+
+Largest Types:
+    39.4 mb	  71.4% Texture2D
+     8.7 mb	  15.8% ComputeShader
+     4.3 mb	   7.8% Shader
+   858.3 kb	   1.5% Mesh
+
+Largest Assets:
+     6.4 mb	  11.6% Packages/com.unity.ai.inference/Runtime/Core/Resources/Sentis/ComputeShaders/ConvGeneric.compute
+     5.3 mb	   9.7% Assets/Jammo-Character/Textures/mixbot_low_mixamo_edit1_MetallicSmoothness.png
+     5.3 mb	   9.7% Assets/Jammo-Character/Textures/mixbot_low_mixamo_edit1_AlbedoTransparency.png
+     5.3 mb	   9.7% Assets/Jammo-Character/Textures/mixbot_low_mixamo_edit1_Normal.png
+     5.3 mb	   9.7% Assets/Jammo-Character/Textures/Alternates/t_jammo_black.psd
+     5.3 mb	   9.7% Assets/Jammo-Character/Textures/Alternates/t_jammo_yellow.psd
+     5.3 mb	   9.7% Assets/Jammo-Character/Textures/Alternates/t_jammo_blue.psd
+     2.7 mb	   4.8% Assets/Jammo-Character/Textures/mixbot_low_mixamo_edit1_AO.png
+     1.8 mb	   3.2% Packages/com.unity.render-pipelines.universal/Shaders/Lit.shader
+   941.1 kb	   1.7% Resources/unity_builtin_extra
+   784.7 kb	   1.4% Assets/Jammo-Character/Models/Jammo_LowPoly.fbx
+   729.4 kb	   1.3% Packages/com.unity.ai.inference/Runtime/Core/Resources/Sentis/PixelShaders/ConvTranspose.shader
+-------------------------------------------------------------------------------
